@@ -53,15 +53,6 @@ This application was deployed in Heroku.
 ### Note Taker Link in Heroku
 [Note Taker Link](https://vast-brook-30237.herokuapp.com/)
 
-### Note Taker Screenshot 1
-![Note Taker Screenshot 1](./Note-Taker-Snapshot-1.PNG)
-
-### Note Taker Screenshot 2
-![Note Taker Screenshot 1](./Note-Taker-Snapshot-2.PNG)
-
-### Note Taker Screenshot 3
-![Note Taker Screenshot 1](./Note-Taker-Snapshot-3.PNG)
-
 
 ## License
 
